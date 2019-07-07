@@ -1,0 +1,13 @@
+@startmindmap{images/hokkaido.png}
+scale 2
+
+skinparam BackgroundColor<<food>> Aqua
+
+
+* 北海道 <img:images/chihou_b1_hokkaidou.png{scale=0.2}> <<food>>
+** 食べ物 
+*** 海鮮 <img:images/animal_chara_neko_sakanaya.png{scale=0.05}>
+*** ラーメン？ <img:images/ramen_udon_yugiri.png{scale=0.05}>
+** 涼しい
+** 広い
+@endmindmap
